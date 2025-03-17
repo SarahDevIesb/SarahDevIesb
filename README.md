@@ -27,7 +27,7 @@ Tenho **20 anos** e sou apaixonada por tecnologia. Atualmente, atuo como desenvo
 ---
 
 ## 🌱 O que estou estudando no momento?  
-🔹 **APIs REST e GraphQL**  
+🔹 **APIs,C#,Python e ReactNative**  
 🔹 **Melhores práticas de arquitetura back-end**  
 🔹 **Otimização de performance e escalabilidade**  
 
